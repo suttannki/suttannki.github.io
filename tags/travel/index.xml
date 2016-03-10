@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on shimane Uturn</title>
-    <link>http://localhost:1313/tags/travel/</link>
+    <link>http://suttannki.github.io/tags/travel/</link>
     <description>Recent content in Travel on shimane Uturn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Mar 2016 22:21:35 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://suttannki.github.io/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ラオス旅行</title>
-      <link>http://localhost:1313/post/laos/</link>
+      <link>http://suttannki.github.io/post/laos/</link>
       <pubDate>Thu, 10 Mar 2016 22:21:35 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/laos/</guid>
+      <guid>http://suttannki.github.io/post/laos/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
 
 &lt;p&gt;Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
